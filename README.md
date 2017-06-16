@@ -1,4 +1,4 @@
-# [kylpo's](https://twitter.com/kylpo) Web Playbook
+# [kylpo](https://twitter.com/kylpo)'s Web Playbook
 Styles, Conventions, Rules, Tips, and Tools!
 
 ## Table of contents
