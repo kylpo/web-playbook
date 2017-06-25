@@ -1,4 +1,4 @@
-# [kylpo](https://twitter.com/kylpo)'s Web Playbook
+# Web Playbook
 Styles, Conventions, Rules, Tips, and Tools!
 
 ## Table of contents
@@ -10,3 +10,5 @@ Styles, Conventions, Rules, Tips, and Tools!
 ## Like this playbook? Maybe you'll like the other ones, too!
 - [React Playbook](https://github.com/kylpo/react-playbook)
 - [Dev Playbook](https://github.com/kylpo/dev-playbook)
+
+Feel free to follow **@kylpo** on [Twitter](https://twitter.com/kylpo) and [Medium](https://medium.com/@kylpo)
