@@ -10,7 +10,7 @@
 # Performance
 
 ## Reduce bundle size
-- [cost-of-modules: Find out which of your dependencies are slowing you down 🐢](https://github.com/siddharthkp/cost-of-modules)
+[cost-of-modules: Find out which of your dependencies are slowing you down 🐢](https://github.com/siddharthkp/cost-of-modules)
 
 ## How to analyze perf
 #### The simplest way
@@ -33,3 +33,8 @@ marky.stop('expensive operation');
 ```
 
 ## Written notes that'll be add here later
+![](https://github.com/kylpo/web-playbook/blob/master/assets/perf.jpeg?raw=true)
+
+![](https://github.com/kylpo/web-playbook/blob/master/assets/perf1.jpeg?raw=true)
+
+![](https://github.com/kylpo/web-playbook/blob/master/assets/perf2.jpeg?raw=true)
