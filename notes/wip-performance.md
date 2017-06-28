@@ -38,3 +38,5 @@ marky.stop('expensive operation');
 ![](https://github.com/kylpo/web-playbook/blob/master/assets/perf1.jpeg?raw=true)
 
 ![](https://github.com/kylpo/web-playbook/blob/master/assets/perf2.jpeg?raw=true)
+
+Also grab notes from https://github.com/kylpo/notes/blob/master/web/Web-Performance.md
