@@ -3,7 +3,7 @@ Styles, Conventions, Rules, Tips, and Tools!
 
 ## Table of contents
 - Deep Dives
-  - [Global Event Decorators](https://github.com/kylpo/web-playbook/blob/master/deep-dives/Global-Event-Decorators.md) - [[Post](https://medium.com/@kylpo/global-event-decorators-dbb30d0920bc)]
+  - [Global Event Decorators](https://github.com/kylpo/web-playbook/blob/master/deep-dives/Global-Event-Decorators.md) - [[post](https://medium.com/@kylpo/global-event-decorators-dbb30d0920bc)]
   - [Images](https://github.com/kylpo/web-playbook/blob/master/deep-dives/Images.md)
 - Notes
   - [js-libs](https://github.com/kylpo/web-playbook/blob/master/notes/js-libs.md)
