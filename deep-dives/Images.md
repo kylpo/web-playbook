@@ -190,6 +190,8 @@ Should it maintain aspect ratio? Should it be bound by a certain height/width? C
 - [object-fit - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit?v=example)
 
 ### Style
+- [Aspect Ratios in CSS are a Hack | Bram.us](https://www.bram.us/2017/06/16/aspect-ratios-in-css-are-a-hack/)
+  - I particularly like the CSS Variables solution
 - [background-size - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size?v=example)
 
 How to fill the entire page with an image, no white space, scales as needed, retains aspect ratio, and centered?
