@@ -258,6 +258,7 @@ instead of loading multiple small images, consider spriting (single image with c
   - image sprite generation: [gulp.spritesmith: Convert a set of images into a spritesheet and CSS variables via gulp](https://github.com/twolfson/gulp.spritesmith)
 - 3rd party services
   - [Cloudinary - Cloud image service, upload, storage & CDN](http://cloudinary.com/)
+    - [10 Excellent Image Tricks and Enhancements with Cloudinary](https://davidwalsh.name/10-excellent-image-tricks-enhancements-cloudinary)
   - [Let The Content Delivery Network Optimize Your Images – Smashing Magazine](https://www.smashingmagazine.com/2017/04/content-delivery-network-optimize-images/)
 
 
