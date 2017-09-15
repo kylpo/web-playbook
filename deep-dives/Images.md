@@ -280,6 +280,7 @@ instead of loading multiple small images, consider spriting (single image with c
 ## Other Links
 - [Images | Web | Google Developers](https://developers.google.com/web/fundamentals/design-and-ui/responsive/images) good overview of many of these topics
 - [An Event Apart News: Responsive Images Are Here. Now What? by Jason Grigsby—An Event Apart video](https://aneventapart.com/news/post/responsive-images-jason-grigsby-an-event-apart-video)
+- [Saving Bandwidth with Images](https://medium.com/dev-channel/saving-bandwidth-with-images-8c28f52b5ef7)
 - What type is it?
   - [html - When to use IMG vs. CSS background-image? - Stack Overflow](http://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image?rq=1)
   - [React Native - Image](https://facebook.github.io/react-native/docs/image.html)
