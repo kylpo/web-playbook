@@ -167,6 +167,7 @@ load blurry LQIP (Low Quality Image Placeholder), then full
   - ![](https://scontent.fsnc1-1.fna.fbcdn.net/v/t39.2365-6/11405195_892704657466957_1372817644_n.jpg?oh=ee0fc03de3fc3461796c249270c6570a&oe=59863D96)
 - [zouhir/lqip-loader: Low Quality Image Placeholders (LQIP) for Webpack](https://github.com/zouhir/lqip-loader)
   - [Zouhir ⚡ on Twitter: "🎉 just published lqip-loader for webpack ⚡️ fast blurry version of your image asset 🖼 load full image when you ready https://t.co/vrHsCZo52M https://t.co/0tEZ4EhTml"](https://twitter.com/_zouhir/status/867733179003580418)
+- [technopagan/sqip: "SQIP" \(pronounced \\skwɪb\\ like the non\-magical folk of magical descent\) is a SVG\-based LQIP technique\.](https://github.com/technopagan/sqip?utm_source=frontendfocus&utm_medium=email)
 
 ### Strategy: Colored Background Placeholder
 ![](https://cdn-images-1.medium.com/max/800/0*QSSsKDNMDUCojsR6.gif)
